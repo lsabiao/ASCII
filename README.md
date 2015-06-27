@@ -13,11 +13,4 @@ Transform an image file to a plain-text file using ASCII art
         python Converter.py file-to-convert
         
 
-##Example
--Original File
-
-![Original File](http://www.pubnub.com/docs/img//python.png)
-
--Conveted File
-
-"[Conveted](https://gist.github.com/lsabiao/d968a6cabaa0c9f518f2)"
+![wtfpl](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png)
