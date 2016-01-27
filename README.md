@@ -12,5 +12,5 @@ Transform an image file to a plain-text file using ASCII art
         
         python Converter.py file-to-convert
         
-
+![https://github.com/lsabiao/ASCII](http://i.imgur.com/MBOvWcl.gif)
 ![wtfpl](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png)
